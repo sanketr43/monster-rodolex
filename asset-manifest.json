@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sanketr43/monster-rodolex/static/css/main.9a7e54c8.chunk.css",
+    "main.js": "/sanketr43/monster-rodolex/static/js/main.302fb72d.chunk.js",
+    "main.js.map": "/sanketr43/monster-rodolex/static/js/main.302fb72d.chunk.js.map",
+    "runtime-main.js": "/sanketr43/monster-rodolex/static/js/runtime-main.ae12d7c8.js",
+    "runtime-main.js.map": "/sanketr43/monster-rodolex/static/js/runtime-main.ae12d7c8.js.map",
+    "static/js/2.fbeefd14.chunk.js": "/sanketr43/monster-rodolex/static/js/2.fbeefd14.chunk.js",
+    "static/js/2.fbeefd14.chunk.js.map": "/sanketr43/monster-rodolex/static/js/2.fbeefd14.chunk.js.map",
+    "static/js/3.9a511d09.chunk.js": "/sanketr43/monster-rodolex/static/js/3.9a511d09.chunk.js",
+    "static/js/3.9a511d09.chunk.js.map": "/sanketr43/monster-rodolex/static/js/3.9a511d09.chunk.js.map",
+    "index.html": "/sanketr43/monster-rodolex/index.html",
+    "static/css/main.9a7e54c8.chunk.css.map": "/sanketr43/monster-rodolex/static/css/main.9a7e54c8.chunk.css.map",
+    "static/js/2.fbeefd14.chunk.js.LICENSE.txt": "/sanketr43/monster-rodolex/static/js/2.fbeefd14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae12d7c8.js",
+    "static/js/2.fbeefd14.chunk.js",
+    "static/css/main.9a7e54c8.chunk.css",
+    "static/js/main.302fb72d.chunk.js"
+  ]
+}
