@@ -2,7 +2,7 @@
   "name": "monster-rodolex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sanketr43/monster-rodolex",
+  "homepage": "https://sanketr43.github.io/monster-rodolex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
